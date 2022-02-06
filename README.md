@@ -13,3 +13,10 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+To play with Deployed Contract:
+
+```shell
+npx hardhat check-greeting
+npx hardhat set-greeting
+```
